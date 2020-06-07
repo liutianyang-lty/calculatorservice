@@ -12,7 +12,7 @@
       "email": "15936061620@163.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "lty-love-zt\\CalculatorService\\": "src/"
