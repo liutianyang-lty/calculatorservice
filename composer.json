@@ -1,5 +1,5 @@
 {
-  "name": "lty-love-zt/CalculatorService",
+  "name": "CalculatorService",
   "description": "CalculatorServiceInterface, Composer!",
   "type": "library",
   "require": {
@@ -15,7 +15,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "lty-love-zt\\CalculatorService\\": "src/"
+      "CalculatorService\\": "src/"
     }
   }
 }
